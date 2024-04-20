@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-20T15:43:15 TRT" name="Default suite" finished-at="2024-04-20T15:44:26 TRT" duration-ms="71340">
+    <groups>
+    </groups>
+    <test started-at="2024-04-20T15:43:15 TRT" name="Default test" finished-at="2024-04-20T15:44:26 TRT" duration-ms="71340">
+      <class name="amazonPackage.AmazonTestCases">
+        <test-method is-config="true" signature="mySetup()[pri:0, instance:amazonPackage.AmazonTestCases@305a0c5f]" started-at="2024-04-20T15:43:15 TRT" name="mySetup" finished-at="2024-04-20T15:43:21 TRT" duration-ms="6125" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mySetup -->
+        <test-method signature="addRandomGift()[pri:1, instance:amazonPackage.AmazonTestCases@305a0c5f]" started-at="2024-04-20T15:43:21 TRT" name="addRandomGift" finished-at="2024-04-20T15:44:16 TRT" duration-ms="54764" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addRandomGift -->
+        <test-method signature="addRandomAmount()[pri:2, instance:amazonPackage.AmazonTestCases@305a0c5f]" started-at="2024-04-20T15:44:16 TRT" name="addRandomAmount" finished-at="2024-04-20T15:44:19 TRT" duration-ms="3219" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addRandomAmount -->
+        <test-method signature="amountAssertion()[pri:3, instance:amazonPackage.AmazonTestCases@305a0c5f]" started-at="2024-04-20T15:44:19 TRT" name="amountAssertion" finished-at="2024-04-20T15:44:19 TRT" duration-ms="71" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amountAssertion -->
+        <test-method signature="fullInfo()[pri:4, instance:amazonPackage.AmazonTestCases@305a0c5f]" started-at="2024-04-20T15:44:19 TRT" name="fullInfo" finished-at="2024-04-20T15:44:26 TRT" duration-ms="7041" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fullInfo -->
+      </class> <!-- amazonPackage.AmazonTestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
